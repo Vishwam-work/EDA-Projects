@@ -14,12 +14,12 @@ The Airline Statistics project focuses on exploring and visualizing datasets rel
 # Sample Images
 HR Analysis <br>
 
-![Attrition](images/)<br>
+![Attrition](images/airline.png)<br>
 Description of the image: This image shows a bar chart representing the attrition rate by department within the company.
 Each bar represents a different department, and the height of the bars indicates the percentage of employees who have left the department.
 
 Airline Statistics<br>
-![Airline](images/)<br>
+![Airline](images/attritation_rate.png)<br>
 
 Description of the image: This image displays a line plot representing the average flight delay time over a specific time period. 
 The x-axis represents the dates, and the y-axis represents the average delay time in minutes. The line shows the trend in flight delays, highlighting any noticeable patterns or fluctuations.
