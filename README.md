@@ -12,13 +12,13 @@ This project aims to analyze the attrition rate within a company's human resourc
 The Airline Statistics project focuses on exploring and visualizing datasets related to the airline industry. It involves analyzing factors such as flight delays, cancellations, and customer satisfaction to understand the performance and trends within the airline sector. Python, along with libraries like Pandas and Seaborn, is utilized for data manipulation and visualization purposes.
 
 # Sample Images
-HR Analysis - Attrition Rate<br>
+HR Analysis <br>
 
-![Attrition](images/)
+![Attrition](images/)<br>
 Description of the image: This image shows a bar chart representing the attrition rate by department within the company.
 Each bar represents a different department, and the height of the bars indicates the percentage of employees who have left the department.
 
-Airline Statistics
+Airline Statistics<br>
 ![Airline](images/)<br>
 
 Description of the image: This image displays a line plot representing the average flight delay time over a specific time period. 
